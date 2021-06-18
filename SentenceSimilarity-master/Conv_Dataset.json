@@ -1,0 +1,568 @@
+{
+	"docs": [{
+		"_type": "_doc",
+		"_id": "1",
+		"_version": 5,
+		"_source": {
+			"doc": {
+				"name": "Cancel my order",
+				"aliases": ["Scrap my order",
+				"Junk my order",
+				"Dismiss my order",
+				"Discard my order",
+				"Ignore my order",
+				"Chuck my order",
+				"Throw out my order",
+				"Strike out my order",
+				"I don’t need this order",
+				"I don’t want this order"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "2",
+		"_version": 4,
+		"_source": {
+			"doc": {
+				"name": "Show recent items",
+				"aliases": ["Show items I viewed recently",
+				"Display recently viewed items",
+				"Visit items I viewed last",
+				"Open items I just viewed",
+				"Show my last seen items",
+				"Exhibit recently viewed products",
+				"Show what I viewed last",
+				"Retrieve stuff I recently saw",
+				"Pull up last seen items",
+				"Visit recently viewed items",
+				"Show stuff I viewed last",
+				"What did I see last",
+				"Navigate to last seen items",
+				"Go to recently viewed products"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "3",
+		"_version": 4,
+		"_source": {
+			"doc": {
+				"name": "Show my orders",
+				"aliases": ["Show my orders list",
+				"Display all orders",
+				"Pull up orders list",
+				"Get all my orders",
+				"Bring up my orders",
+				"Go to orders list",
+				"Exhibit all orders",
+				"Show my last order",
+				"Retrieve my order list",
+				"Show all purchases",
+				"Show me what I have ordered",
+				"Display my orders list",
+				"Navigate to my orders",
+				"Show my recent orders"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "4",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Add my address",
+				"aliases": ["Enter my address",
+				"Put in my address",
+				"Add my home address",
+				"Note my address details",
+				"Input my address",
+				"Save my address details",
+				"Note down my home address",
+				"Register office address",
+				"Make note of my address",
+				"Take down my office location",
+				"Add new address",
+				"Include my home address",
+				"Store my address details"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "5",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Track my order",
+				"aliases": ["Where is my order",
+				"Locate my order",
+				"Find my order",
+				"Give me my order status",
+				"Track my package",
+				"Where is my package",
+				"Allow me to track order",
+				"Where are my items",
+				"Find my package",
+				"Show ordered items status",
+				"Find where my package is ",
+				"Track location of my order",
+				"Give me location of order"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "6",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "How to pay",
+				"aliases": ["How do I pay",
+				"What are the payment options",
+				"Show me ways to pay",
+				"Direct me to payments page",
+				"Give me the payment options",
+				"Can I get payment options",
+				"Fetch payment options",
+				"Pay for items",
+				"Pay for order",
+				"Load the payment gateway",
+				"How can I make payment",
+				"Show payment methods"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "7",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Use my coupons",
+				"aliases": ["Avail my coupons",
+				"Use my vouchers",
+				"Redeem my voucher",
+				"Avail the gift card",
+				"Utilize the coupons",
+				"Claim my coupons",
+				"Use my shopping coupons",
+				"Pay using my coupons"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "8",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Check my points",
+				"aliases": ["View my points",
+				"See my points ",
+				"Show my points",
+				"Display my points",
+				"Bring up my points balance",
+				"Show remaining points",
+				"Get my points",
+				"Pull up my points",
+				"Show existing points",
+				"Get my current points",
+				"Exhibit my points",
+				"Reveal points left",
+				"How many points are left",
+				"Show outstanding points"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "9",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Get membership",
+				"aliases": ["Sign up for membership",
+				"Buy membership",
+				"Purchase membership",
+				"Join membership",
+				"Register for membership",
+				"Enroll for membership",
+				"Apply for membership",
+				"Become a member",
+				"Subscribe for membership"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "10",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Check working hours",
+				"aliases": ["Check operating hours",
+				"When do you open",
+				"What are your service hours",
+				"Check business hours",
+				"Till when are you open",
+				"Figure out the business hours",
+				"Get the work timings",
+				"What is the working time",
+				"Look for working hours",
+				"Find out the operating hours",
+				"When do you operate",
+				"Tell me the official hours",
+				"Confirm business hours"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "11",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Show reservation",
+				"aliases": ["Show my confirmed booking",
+				"Display my reservation",
+				"See my bookings",
+				"View my bookings",
+				"Bring up my reservation",
+				"Show my bookings",
+				"Pull up my confirmed booking",
+				"Display my reservation",
+				"Fetch my reservation",
+				"Exhibit all bookings",
+				"Get all my bookings",
+				"Look for my reservations"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "12",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "View new arrivals",
+				"aliases": ["Display latest products",
+				"Show fresh stock",
+				"Show brand new items",
+				"Bring up fresh items",
+				"Pull up new stock",
+				"Show the new additions",
+				"Unveil the latest stuff",
+				"What is new",
+				"Show the latest merchandise",
+				"Newest stock of the season",
+				"Show the latest goods",
+				"Fetch the updated stocks"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "13",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Show product information",
+				"aliases": ["Give me product details",
+				"Tell more about the product",
+				"Show product details",
+				"Display item details",
+				"Get more information on product",
+				"Show more info on item",
+				"Bring up item info",
+				"Pull up product information",
+				"Provide more info on article",
+				"Learn more about the product",
+				"Know more about product",
+				"Know more info on article",
+				"Exhibit item details",
+				"Read more about the product"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "14",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Show return policy",
+				"aliases": ["What is the return procedure",
+				"Read the returns policy",
+				"Display the return policy",
+				"How do I return items",
+				"How to return products",
+				"Guide me through returns policy",
+				"Pull up the return policy",
+				"Show the return process ",
+				"Show return items policy",
+				"Provide the return policy",
+				"Bring up the return process",
+				"Get me the return policy",
+				"Give me the return policy",
+				"Display the return policy"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "15",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Search for items",
+				"aliases": ["Look for an item",
+				"Find an item",
+				"Search for a product",
+				"Hunt for an article",
+				"Locate an item",
+				"Browse for an item",
+				"Check for items",
+				"Explore items",
+				"Search items",
+				"Find items",
+				"Fish for an item"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "16",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Show cart",
+				"aliases": ["Show bagged items",
+				"Display items in my cart",
+				"Show my shopping cart",
+				"What is in my cart",
+				"Show my cart contents",
+				"What have I bagged",
+				"Show chosen items",
+				"Bring up the shopping items",
+				"Guide me to shopping cart",
+				"Show picked items",
+				"Show contents in cart"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "17",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Add to cart",
+				"aliases": ["Add to shopping cart",
+				"Bag item",
+				"Put articles in my cart",
+				"Put in the shopping cart",
+				"Send to cart",
+				"Place the item in cart",
+				"Move item to shopping cart",
+				"Move the item to cart",
+				"Export item to cart",
+				"Save to cart",
+				"Transfer to cart",
+				"Add in shopping bag"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "18",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Place an order",
+				"aliases": ["Buy items",
+				"Purchase products",
+				"Buy items in cart",
+				"Confirm order",
+				"Check out items in cart",
+				"Proceed to checkout",
+				"Purchase the chosen items",
+				"Finalize the order",
+				"Approve the order",
+				"Buy the picked items",
+				"Buy the selected products",
+				"Freeze the order",
+				"Lock the order"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "19",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Show bestsellers",
+				"aliases": ["Show fast selling items",
+				"Show me hot items",
+				"Display popular products",
+				"Show best selects",
+				"Show fast moving goods",
+				"Pull up best picks",
+				"Exhibit trendy picks",
+				"Reveal top collection",
+				"Show best buys",
+				"Demonstrate best purchases",
+				"Curate top merchandise",
+				"Pull up hot items list",
+				"Display fast sellers",
+				"Bring up trending items",
+				"What is trending",
+				"Bring up top articles"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "20",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Show big deals",
+				"aliases": ["Show me top offers",
+				"Discover deal of the day",
+				"Show me best discounts",
+				"Bring up exclusive deals",
+				"What is on sale",
+				"What is on discount",
+				"Display items on discount",
+				"Pull up hot deals",
+				"Exhibit best offers",
+				"Demonstrate deals of the day",
+				"Reveal absolute steals",
+				"Show biggest steals",
+				"Display lightning deals",
+				"Bring up todays deals"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "21",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Add to wishlist",
+				"aliases": ["Buy item later",
+				"Add to favorites",
+				"Save for later",
+				"Star the item",
+				"Save in wishlist",
+				"Move product to want list",
+				"Put item in wish list",
+				"Include in preferences list",
+				"Mark as favorite",
+				"Pin to favorites",
+				"Save to buy later"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "22",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Show contact information",
+				"aliases": ["How to get in touch",
+				"How do I contact you",
+				"Display contact info",
+				"How to connect with you",
+				"How do I reach you",
+				"Show contact details",
+				"Bring up contact info",
+				"Share contact info with me",
+				"Help with customer service number",
+				"Get me customer care info",
+				"Show email contact",
+				"Show company address",
+				"Disclose phone number",
+				"Connect to customer support"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "23",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Write a complaint",
+				"aliases": ["Write about issues with item",
+				"Post complaints about item",
+				"Write about problems with order",
+				"Unhappy with my order",
+				"Share grievances related to item",
+				"Pen my complaints",
+				"Want to express my dissatisfaction",
+				"Dissatisfied with item",
+				"Criticize the purchased item",
+				"Write criticism of product",
+				"Record issues with product",
+				"Complain about my order",
+				"Communicate order complaints",
+				"Share complaints about order"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "24",
+		"_version": 4,
+		"_source": {
+			"doc": {
+				"name": "Find stores nearby",
+				"aliases": ["Look for stores near me",
+				"Search for stores nearby",
+				"Show stores close by",
+				"Find stores in my neighbourhood",
+				"Find stores around me",
+				"Share nearby stores address",
+				"Locate a store near me",
+				"Identify shops nearby",
+				"Discover outlets in my vicinity",
+				"Spot stores in my proximity",
+				"Trace shops in my area",
+				"Give me store addresses",
+				"Look for neighbouring stores",
+				"Help me with store address"]
+			}
+		}
+	},
+	{
+		"_type": "_doc",
+		"_id": "25",
+		"_version": 3,
+		"_source": {
+			"doc": {
+				"name": "Write a review",
+				"aliases": ["Write a product review",
+				"Leave a feedback",
+				"Write about my experience",
+				"Share my thoughts on product",
+				"Share experience on using product",
+				"Review the experience",
+				"Write product experience",
+				"Share service experience",
+				"Record a feedback",
+				"Pen a review of item",
+				"Capture product review",
+				"Post item review",
+				"Write comments on using item",
+				"Record comments on using product"]
+			}
+		}
+	}]
+}
